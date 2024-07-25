@@ -1,4 +1,4 @@
-# Hello, I'm Thanika 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hello, I'm Thanika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## About Me
 
@@ -32,10 +32,10 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/thanika-natarajan/)) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterUsername) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YourInstagramUsername)
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [Thanika Natarajan](https://github.com/ThanikaNatarajan)
