@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on Full Stack Development
 - 🌱 I'm currently learning Django
-- 👯 I'm looking to collaborate projects
+- 👯 I'm looking to collaborate on projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Love Bubble Tea 
 <img src="https://tenor.com/bScJa.gif" width="45">
@@ -21,7 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 
 ## 📊 GitHub Stats
 
