@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on Full Stack Development
 - 🌱 I'm currently learning Django
-- 👯 I'm looking to collaborate on projects
+- 👯 I'm looking forward to collaborating on projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Love Bubble Tea
   
@@ -37,10 +37,9 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/thanika-natarajan/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/thanika-natarajan/)) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterUsername) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YourInstagramUsername)
-[![Medium](
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanikanatarajan.cs22@bitsathy.ac.in)
 
 ---
 
