@@ -6,7 +6,8 @@
 - 🌱 I'm currently learning Django
 - 👯 I'm looking to collaborate projects
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I Love Bubble Tea <img src="https://tenor.com/bScJa.gif" width="45">
+- ⚡ Fun fact: I Love Bubble Tea 
+<img src="https://tenor.com/bScJa.gif" width="45">
 
 ## 🚀 Skills
 
