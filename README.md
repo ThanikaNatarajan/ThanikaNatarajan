@@ -1,6 +1,8 @@
 # Hello, I'm Thanika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-![alt Viper Image](/src/viper.png)
+<img src="/src/viper.png" style="height: 80%;">
+
+
 ## About Me  
 
 - 🔭 Currently working on Full Stack Development  
