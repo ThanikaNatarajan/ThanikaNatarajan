@@ -5,14 +5,14 @@
 
 ## About Me  
 
-- 🔭 Currently working on Full Stack Development  
+- 🔭 Currently working on Cyber Security
 - 🌱 Learning Django and exploring new technologies  
-- 👯 Always looking forward to collaborating on interesting projects 
+- 👯 Always looking forward to collaborating on interesting projects and learning new skills
 
 ## 🚀 Skills  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)&nbsp;![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 <br/>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)&nbsp;  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp; ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)&nbsp; ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp; ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)&nbsp; ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/GitHub-100000?style=flat&logo=kalilinux&logoColor=white)
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanikaNatarajan&theme=algolia&show_icons=true&hide_border=true&count_private=true)  
